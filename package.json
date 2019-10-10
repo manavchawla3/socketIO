@@ -1,0 +1,35 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "socket.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.16.4",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "ioredis": "^4.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "pg": "^7.12.0",
+    "sequelize": "^5.13.1",
+    "socket.io": "^2.1.1",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "scripts": {
+    "start": "nodemon socket.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dockabl/dockabl_notification_channel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dockabl/dockabl_notification_channel/issues"
+  },
+  "homepage": "https://github.com/dockabl/dockabl_notification_channel#readme"
+}

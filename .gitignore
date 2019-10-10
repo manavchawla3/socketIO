@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+config/env/env.prod.json
+config/env/env.local.json
+config/env/env.dev.json
+config/env/env.uat.json
+
+*.rdb
+
